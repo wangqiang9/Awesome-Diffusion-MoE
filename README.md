@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Token Choice](https://github.com/wangqiang9/Awesome-Diffusion-MoE/blob/main/README.md#token-choice)
-- [Expert Choice]()
+- [Expert Choice](https://github.com/wangqiang9/Awesome-Diffusion-MoE/blob/main/README.md#expert-choice)
 
 
 ## Token Choice
