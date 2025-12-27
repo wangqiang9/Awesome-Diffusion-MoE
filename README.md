@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-- [Token Choice]()
+- [Token Choice](https://github.com/wangqiang9/Awesome-Diffusion-MoE/blob/main/README.md#token-choice)
 - [Expert Choice]()
 
 
