@@ -48,5 +48,10 @@ EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing
 
 [📄 Paper](https://arxiv.org/abs/2410.02098)
 
+MammothModa2: A Unified AR-Diffusion Framework for Visual Understanding and Generation
+
+[📄 Paper](https://arxiv.org/abs/2511.18262) | [🌐 Project Page](https://mammothmoda2.github.io/) | [💻 Code](https://github.com/bytedance/mammothmoda?tab=readme-ov-file)
+
+
 
 
